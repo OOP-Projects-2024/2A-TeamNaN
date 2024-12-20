@@ -282,7 +282,7 @@ class Common {
                     $condition = "status != 'archived' AND user_id = ?";
                     $params = [$user_id];
                 } else {
-                    // Default: Unauthorized
+                    
                     return $this->generateResponse(
                         null, 
                         "failed", 
