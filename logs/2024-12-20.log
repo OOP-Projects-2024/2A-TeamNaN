@@ -1,0 +1,81 @@
+2024-12-20 00:04:44, POST, xel, 25, campaign_owner, Created a new campaign record titled 'testingcamp1'.
+2024-12-20 00:04:56, POST, xel, 25, campaign_owner, Created a new campaign record titled 'testingcamp2'.
+2024-12-20 00:05:07, POST, xel, 25, campaign_owner, Created a new campaign record titled 'testingcamp3'.
+2024-12-20 00:06:21, POST, zhanghao, 29, admin, Created a new pledge worth '10.00' for the campaign with ID: '18'. Payment status is set to 'pending'.
+2024-12-20 00:06:29, POST, zhanghao, 29, admin, Created a new pledge worth '10.00' for the campaign with ID: '18'. Payment status is set to 'pending'.
+2024-12-20 00:06:37, POST, zhanghao, 29, admin, Created a new pledge worth '10.00' for the campaign with ID: '18'. Payment status is set to 'pending'.
+2024-12-20 00:06:48, POST, zhanghao, 29, admin, Created a new pledge worth '10.00' for the campaign with ID: '20'. Payment status is set to 'pending'.
+2024-12-20 00:07:20, POST, jungwoo, 30, user, Created a new pledge worth '200.00' for the campaign with ID: '19'. Payment status is set to 'pending'.
+2024-12-20 00:07:28, POST, jungwoo, 30, user, Created a new pledge worth '200.00' for the campaign with ID: '19'. Payment status is set to 'pending'.
+2024-12-20 00:07:47, POST, jungwoo, 30, user, Created a new pledge worth '200.00' for the campaign with ID: '20'. Payment status is set to 'pending'.
+2024-12-20 00:29:42, POST, zhanghao, 29, admin, Admin approve Pledge of '10.00' added to campaign ID '18' by user id: '29'. Updated amount raised: '10.00' out of the goal amount '10000.00'.
+2024-12-20 00:29:59, POST, zhanghao, 29, admin, Admin approve Pledge of '10.00' added to campaign ID '18' by user id: '29'. Updated amount raised: '20.00' out of the goal amount '10000.00'.
+2024-12-20 00:30:16, POST, zhanghao, 29, admin, Admin approve Pledge of '10.00' added to campaign ID '18' by user id: '29'. Updated amount raised: '30.00' out of the goal amount '10000.00'.
+2024-12-20 00:42:09, POST, zhanghao, 29, admin, Created a new pledge worth '10.00' for the campaign with ID: '12'. Payment status is set to 'pending'.
+2024-12-20 10:49:20, POST, zhanghao, 29, admin, Created a new campaign record titled 'admincampaign1'.
+2024-12-20 10:57:38, POST, zhanghao, 29, admin, Created a new campaign record titled 'admincampaign2'.
+2024-12-20 10:57:53, POST, zhanghao, 29, admin, Created a new campaign record titled 'admincampaign3'.
+2024-12-20 10:58:00, POST, zhanghao, 29, admin, Created a new campaign record titled 'admincampaign4'.
+2024-12-20 10:58:59, POST, xel, 25, campaign_owner, Created a new campaign record titled 'campaignownercampaign1'.
+2024-12-20 10:59:07, POST, xel, 25, campaign_owner, Created a new campaign record titled 'campaignownercampaign2'.
+2024-12-20 10:59:13, POST, xel, 25, campaign_owner, Created a new campaign record titled 'campaignownercampaign3'.
+2024-12-20 10:59:21, POST, xel, 25, campaign_owner, Created a new campaign record titled 'campaignownercampaign4'.
+2024-12-20 11:08:38, POST, zhanghao, 29, admin, Created a new pledge worth '10.00' for the campaign with ID: '21'. Payment status is set to 'pending'.
+2024-12-20 11:08:51, POST, zhanghao, 29, admin, Created a new pledge worth '10.00' for the campaign with ID: '22'. Payment status is set to 'pending'.
+2024-12-20 11:08:59, POST, zhanghao, 29, admin, Created a new pledge worth '10.00' for the campaign with ID: '23'. Payment status is set to 'pending'.
+2024-12-20 11:09:06, POST, zhanghao, 29, admin, Created a new pledge worth '10.00' for the campaign with ID: '24'. Payment status is set to 'pending'.
+2024-12-20 11:09:16, POST, zhanghao, 29, admin, Created a new pledge worth '10.00' for the campaign with ID: '25'. Payment status is set to 'pending'.
+2024-12-20 11:09:25, POST, zhanghao, 29, admin, Created a new pledge worth '10.00' for the campaign with ID: '26'. Payment status is set to 'pending'.
+2024-12-20 11:09:35, POST, zhanghao, 29, admin, Created a new pledge worth '10.00' for the campaign with ID: '27'. Payment status is set to 'pending'.
+2024-12-20 11:09:44, POST, zhanghao, 29, admin, Created a new pledge worth '10.00' for the campaign with ID: '28'. Payment status is set to 'pending'.
+2024-12-20 11:11:05, POST, xel, 25, campaign_owner, Created a new pledge worth '20.00' for the campaign with ID: '21'. Payment status is set to 'pending'.
+2024-12-20 11:11:14, POST, xel, 25, campaign_owner, Created a new pledge worth '20.00' for the campaign with ID: '22'. Payment status is set to 'pending'.
+2024-12-20 11:11:23, POST, xel, 25, campaign_owner, Created a new pledge worth '20.00' for the campaign with ID: '23'. Payment status is set to 'pending'.
+2024-12-20 11:11:28, POST, xel, 25, campaign_owner, Created a new pledge worth '20.00' for the campaign with ID: '24'. Payment status is set to 'pending'.
+2024-12-20 11:11:34, POST, xel, 25, campaign_owner, Created a new pledge worth '20.00' for the campaign with ID: '25'. Payment status is set to 'pending'.
+2024-12-20 11:11:42, POST, xel, 25, campaign_owner, Created a new pledge worth '20.00' for the campaign with ID: '26'. Payment status is set to 'pending'.
+2024-12-20 11:11:48, POST, xel, 25, campaign_owner, Created a new pledge worth '20.00' for the campaign with ID: '27'. Payment status is set to 'pending'.
+2024-12-20 11:11:54, POST, xel, 25, campaign_owner, Created a new pledge worth '20.00' for the campaign with ID: '28'. Payment status is set to 'pending'.
+2024-12-20 11:12:40, POST, jungwoo, 30, user, Created a new pledge worth '30.00' for the campaign with ID: '21'. Payment status is set to 'pending'.
+2024-12-20 11:12:51, POST, jungwoo, 30, user, Created a new pledge worth '30.00' for the campaign with ID: '22'. Payment status is set to 'pending'.
+2024-12-20 11:12:58, POST, jungwoo, 30, user, Created a new pledge worth '30.00' for the campaign with ID: '23'. Payment status is set to 'pending'.
+2024-12-20 11:13:07, POST, jungwoo, 30, user, Created a new pledge worth '30.00' for the campaign with ID: '24'. Payment status is set to 'pending'.
+2024-12-20 11:13:12, POST, jungwoo, 30, user, Created a new pledge worth '30.00' for the campaign with ID: '25'. Payment status is set to 'pending'.
+2024-12-20 11:13:17, POST, jungwoo, 30, user, Created a new pledge worth '30.00' for the campaign with ID: '26'. Payment status is set to 'pending'.
+2024-12-20 11:13:25, POST, jungwoo, 30, user, Created a new pledge worth '30.00' for the campaign with ID: '27'. Payment status is set to 'pending'.
+2024-12-20 11:13:31, POST, jungwoo, 30, user, Created a new pledge worth '30.00' for the campaign with ID: '28'. Payment status is set to 'pending'.
+2024-12-20 11:14:14, POST, zhanghao, 29, admin, Admin approve Pledge of '10.00' added to campaign ID '21' by user id: '29'. Updated amount raised: '10.00' out of the goal amount '1000.00'.
+2024-12-20 11:14:22, POST, zhanghao, 29, admin, Admin approve Pledge of '10.00' added to campaign ID '22' by user id: '29'. Updated amount raised: '10.00' out of the goal amount '1000.00'.
+2024-12-20 11:14:35, POST, zhanghao, 29, admin, Admin approve Pledge of '10.00' added to campaign ID '23' by user id: '29'. Updated amount raised: '10.00' out of the goal amount '1000.00'.
+2024-12-20 11:14:41, POST, zhanghao, 29, admin, Admin approve Pledge of '10.00' added to campaign ID '24' by user id: '29'. Updated amount raised: '10.00' out of the goal amount '1000.00'.
+2024-12-20 11:16:12, POST, zhanghao, 29, admin, Admin approve Pledge of '20.00' added to campaign ID '21' by user id: '25'. Updated amount raised: '30.00' out of the goal amount '1000.00'.
+2024-12-20 11:16:38, POST, zhanghao, 29, admin, Admin approve Pledge of '20.00' added to campaign ID '22' by user id: '25'. Updated amount raised: '30.00' out of the goal amount '1000.00'.
+2024-12-20 11:16:47, POST, zhanghao, 29, admin, Admin approve Pledge of '20.00' added to campaign ID '23' by user id: '25'. Updated amount raised: '30.00' out of the goal amount '1000.00'.
+2024-12-20 11:16:55, POST, zhanghao, 29, admin, Admin approve Pledge of '20.00' added to campaign ID '24' by user id: '25'. Updated amount raised: '30.00' out of the goal amount '1000.00'.
+2024-12-20 11:17:17, POST, zhanghao, 29, admin, Admin approve Pledge of '30.00' added to campaign ID '21' by user id: '30'. Updated amount raised: '60.00' out of the goal amount '1000.00'.
+2024-12-20 11:17:26, POST, zhanghao, 29, admin, Admin approve Pledge of '30.00' added to campaign ID '22' by user id: '30'. Updated amount raised: '60.00' out of the goal amount '1000.00'.
+2024-12-20 11:17:36, POST, zhanghao, 29, admin, Admin approve Pledge of '30.00' added to campaign ID '23' by user id: '30'. Updated amount raised: '60.00' out of the goal amount '1000.00'.
+2024-12-20 11:17:45, POST, zhanghao, 29, admin, Admin approve Pledge of '30.00' added to campaign ID '24' by user id: '30'. Updated amount raised: '60.00' out of the goal amount '1000.00'.
+2024-12-20 11:18:00, PATCH, zhanghao, 29, admin, Admin denied payment request for pledge ID '91'.
+2024-12-20 11:18:23, PATCH, zhanghao, 29, admin, Admin denied payment request for pledge ID '83'.
+2024-12-20 11:18:40, PATCH, zhanghao, 29, admin, Admin denied payment request for pledge ID '75'.
+2024-12-20 11:21:24, PATCH, xel, 25, campaign_owner, Updated campaign record with ID: 26. Changes: {"title":"update","description":"test","goal_amount":"1000.00","amount_raised":"0.00","start_date":"2024-11-01","end_date":"2025-01-01","status":"completed"}
+2024-12-20 11:22:04, PATCH, xel, 25, campaign_owner, Updated campaign record with ID: 26. Changes: {"title":"update","description":"test","goal_amount":"1000.00","amount_raised":"0.00","start_date":"2024-11-01","end_date":"2025-01-01","status":"completed"}
+2024-12-20 11:24:01, PATCH, zhanghao, 29, admin, Campaign removal request created for campaign ID: 25.
+2024-12-20 11:24:09, PATCH, zhanghao, 29, admin, Campaign removal request created for campaign ID: 27.
+2024-12-20 11:24:32, PATCH, xel, 25, campaign_owner, Campaign removal request created for campaign ID: 28.
+2024-12-20 11:26:49, PATCH, zhanghao, 29, admin, Approved campaign removal for campaign ID: 25.
+2024-12-20 11:28:12, POST, zhanghao, 29, admin, User requested a refund for pledge ID '71' with reason: 'adminrefundtest'
+2024-12-20 11:28:22, POST, zhanghao, 29, admin, User requested a refund for pledge ID '72' with reason: 'adminrefundtest'
+2024-12-20 11:29:20, POST, xel, 25, campaign_owner, User requested a refund for pledge ID '79' with reason: 'ownerefundtest'
+2024-12-20 11:29:31, POST, xel, 25, campaign_owner, User requested a refund for pledge ID '80' with reason: 'ownerefundtest'
+2024-12-20 11:31:06, POST, jungwoo, 30, user, User requested a refund for pledge ID '87' with reason: 'userrefundtest'
+2024-12-20 11:31:13, POST, jungwoo, 30, user, User requested a refund for pledge ID '88' with reason: 'userrefundtest'
+2024-12-20 11:33:11, PATCH, zhanghao, 29, admin, Admin approved refund for pledge ID '71'. Amount refunded: '10.00'.
+2024-12-20 11:35:06, PATCH, zhanghao, 29, admin, Admin approved refund for pledge ID '80'. Amount refunded: '20.00'.
+2024-12-20 11:35:40, PATCH, zhanghao, 29, admin, Admin approved refund for pledge ID '87'. Amount refunded: '30.00'.
+2024-12-20 11:35:57, PATCH, zhanghao, 29, admin, Admin denied refund request for pledge ID '88' with reason: 'deny'.
+2024-12-20 11:36:28, PATCH, zhanghao, 29, admin, Admin denied refund request for pledge ID '79' with reason: 'deny'.
+2024-12-20 11:36:37, PATCH, zhanghao, 29, admin, Admin denied refund request for pledge ID '71' with reason: 'deny'.
+2024-12-20 11:37:04, PATCH, zhanghao, 29, admin, Admin denied refund request for pledge ID '73' with reason: 'deny'.
+2024-12-20 11:43:55, PATCH, zhanghao, 29, admin, Admin denied refund request for pledge ID '72' with reason: 'deny'.
