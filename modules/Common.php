@@ -279,7 +279,7 @@ class Common {
 
             if (!$regular_user) {
                 if ($isCampaignOwner) {
-                    $condition = "user_id = ?";
+                    $condition = "status != 'archived' AND user_id = ?";
                     $params = [$user_id];
                 } else {
                     // Default: Unauthorized

@@ -347,7 +347,8 @@ class Patch extends Common {
             if (empty($pledge['data'])) {
                 return $this->generateResponse(
                     null, 
-                    "failed", "Pledge not found.", 
+                    "failed", 
+                    "Pledge not found.", 
                     404
                 );
             }
@@ -377,6 +378,15 @@ class Patch extends Common {
                     200
                 );
             } elseif ($action === 'deny') {
+
+                if ($pledge['data'][0]['refund_status'] !== 'pending') {
+                    return $this->generateResponse(
+                        null, 
+                        "failed", 
+                        "Refund is not requested for this pledge record.", 
+                        404
+                    );
+                }
                 $this->executeQuery(
                     "UPDATE Pledges_tbl SET refund_status = 'denied' WHERE id = ?", 
                     [$pledgeId]
