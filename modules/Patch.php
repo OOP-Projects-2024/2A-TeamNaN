@@ -397,7 +397,7 @@ class Patch extends Common {
                     null, 
                     null, 
                     "PATCH", 
-                    "Admin denied refund request for pledge ID '{$body['pledge_id']}' with reason: '{$body['action']}'."
+                    "Admin denied refund request for pledge ID '{$body['pledge_id']}'."
                 );
                 return $this->generateResponse(
                     null, 
