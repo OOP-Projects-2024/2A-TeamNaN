@@ -1,6 +1,4 @@
 <?php
-
-// Import required files
 require_once "./config/database.php";
 require_once "./modules/Get.php";
 require_once "./modules/Post.php";
